@@ -1,0 +1,28 @@
+name: uos
+favicon: null
+layout_spectrum: 0.3707642825320363
+typography_spectrum: 0.03090270608663559
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.21184392552822828
+  lightness: 0.4434700484853238
+  saturation: 0.7536314446479082
+  rhythmicContrast: 0.8244877653196454
+purpose: []
